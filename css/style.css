@@ -86,3 +86,9 @@ div {
    font-size: 18px;
    color: #b29e9b;
 }
+
+.footer {
+   text-align: center;
+   padding-top: 50px;
+   margin-bottom: 20px;
+}
